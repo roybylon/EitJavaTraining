@@ -16,7 +16,7 @@ at the top right and corner between Watch and Star click on fork this repository
 ## Authentication with Your respository
 * First generate a personal access token
     - ```
-      At the top right add corner click on profile, settings and developer settings click on personal access token, token classic
+      At the top right hand corner click on profile, settings and developer settings click on personal access token, token classic
       click on generate new token, name your token and saved it to a file in txt
       ```
 * Repository link
