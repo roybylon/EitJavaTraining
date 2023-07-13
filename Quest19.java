@@ -5,14 +5,14 @@
  many factors the number has. */
 
 
-/* Online Java Compiler and Editor */
-import java.util.Scanner;   // importing the Scanner object for the input
+// importing the Scanner object for the input
+import java.util.Scanner;   
 public class Quest19{
      static void number_of_factors(int num){
          int i;
          for(i = 1; i<=num; ++i){
              if(num % i == 0){
-                //  System.out.print("Factor of " +num+ " is "+ i);
+        
                  System.out.print(i + " ");
              }
          }
