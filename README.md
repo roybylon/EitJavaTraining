@@ -1,8 +1,8 @@
 # Class Assignment Practices 
 ## Assignment Overview
 ```
-* The assigment contain individual with three questions per each person
-* The assigment are to submitted on github individually by forking the repository
+* The assigment contain individual questions with three questions per each person
+* The assigment are to be submitted on github individually by forking the repository
 ```
 ## Repository
 * Fork from [roybylon](https://github.com/roybylon/EitJavaTraining).
