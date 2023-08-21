@@ -11,6 +11,6 @@
 | Kamil Nurudeen | CSE/2021/005 | 7, 18, 27 |
 | Olayiwola Fawaz | CSE/2021/009 | 2, 11, 24 |
 | Icho Akem| CSE/2021/002 | 9, 20, 23 |
-| Jimoh Mutiyat | CSE/2021/007| 3, 17, 27|
-| Oladehinde lateef | CSE/2021/006 | 3, 15, 21|
+| Jimoh Mutiyat | CSE/2021/006| 3, 17, 27|
+| Oladehinde lateef | CSE/2021/007 | 3, 15, 21|
 
